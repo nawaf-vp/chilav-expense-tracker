@@ -22,7 +22,7 @@ body {
 
 .container {
   margin: 30px auto;
-  width: 400px;
+  width: 350px;
 }
 
 h1 {
@@ -90,10 +90,11 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #3ebcbc;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
+  border-radius: 10px;
   display: block;
   font-size: 16px;
   margin: 10px 0 30px;
